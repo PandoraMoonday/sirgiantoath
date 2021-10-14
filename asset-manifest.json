@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/sirgiantoath/static/css/main.674c0595.chunk.css",
-    "main.js": "/sirgiantoath/static/js/main.21848f00.chunk.js",
-    "main.js.map": "/sirgiantoath/static/js/main.21848f00.chunk.js.map",
+    "main.js": "/sirgiantoath/static/js/main.06f735fe.chunk.js",
+    "main.js.map": "/sirgiantoath/static/js/main.06f735fe.chunk.js.map",
     "runtime-main.js": "/sirgiantoath/static/js/runtime-main.f7394b28.js",
     "runtime-main.js.map": "/sirgiantoath/static/js/runtime-main.f7394b28.js.map",
     "static/js/2.b0469615.chunk.js": "/sirgiantoath/static/js/2.b0469615.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.f7394b28.js",
     "static/js/2.b0469615.chunk.js",
     "static/css/main.674c0595.chunk.css",
-    "static/js/main.21848f00.chunk.js"
+    "static/js/main.06f735fe.chunk.js"
   ]
 }
