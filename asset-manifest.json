@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/sirgiantoath/static/css/main.674c0595.chunk.css",
-    "main.js": "/sirgiantoath/static/js/main.54eb7822.chunk.js",
-    "main.js.map": "/sirgiantoath/static/js/main.54eb7822.chunk.js.map",
-    "runtime-main.js": "/sirgiantoath/static/js/runtime-main.740ca235.js",
-    "runtime-main.js.map": "/sirgiantoath/static/js/runtime-main.740ca235.js.map",
-    "static/js/2.3c991fbf.chunk.js": "/sirgiantoath/static/js/2.3c991fbf.chunk.js",
-    "static/js/2.3c991fbf.chunk.js.map": "/sirgiantoath/static/js/2.3c991fbf.chunk.js.map",
-    "static/js/3.0708a606.chunk.js": "/sirgiantoath/static/js/3.0708a606.chunk.js",
-    "static/js/3.0708a606.chunk.js.map": "/sirgiantoath/static/js/3.0708a606.chunk.js.map",
-    "index.html": "/sirgiantoath/index.html",
-    "static/css/main.674c0595.chunk.css.map": "/sirgiantoath/static/css/main.674c0595.chunk.css.map",
-    "static/js/2.3c991fbf.chunk.js.LICENSE.txt": "/sirgiantoath/static/js/2.3c991fbf.chunk.js.LICENSE.txt",
-    "static/media/dildo.6bfbb809.png": "/sirgiantoath/static/media/dildo.6bfbb809.png",
-    "static/media/genders.e68e071d.png": "/sirgiantoath/static/media/genders.e68e071d.png",
-    "static/media/sex.f5fff94f.png": "/sirgiantoath/static/media/sex.f5fff94f.png",
-    "static/media/threesome_2_female.d6b027e5.png": "/sirgiantoath/static/media/threesome_2_female.d6b027e5.png",
-    "static/media/threesome_2_male.aad05d17.png": "/sirgiantoath/static/media/threesome_2_male.aad05d17.png"
+    "main.css": "/static/css/main.674c0595.chunk.css",
+    "main.js": "/static/js/main.d9024455.chunk.js",
+    "main.js.map": "/static/js/main.d9024455.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fd9671cb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fd9671cb.js.map",
+    "static/js/2.85e6a220.chunk.js": "/static/js/2.85e6a220.chunk.js",
+    "static/js/2.85e6a220.chunk.js.map": "/static/js/2.85e6a220.chunk.js.map",
+    "static/js/3.0708a606.chunk.js": "/static/js/3.0708a606.chunk.js",
+    "static/js/3.0708a606.chunk.js.map": "/static/js/3.0708a606.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.674c0595.chunk.css.map": "/static/css/main.674c0595.chunk.css.map",
+    "static/js/2.85e6a220.chunk.js.LICENSE.txt": "/static/js/2.85e6a220.chunk.js.LICENSE.txt",
+    "static/media/dildo.6bfbb809.png": "/static/media/dildo.6bfbb809.png",
+    "static/media/genders.e68e071d.png": "/static/media/genders.e68e071d.png",
+    "static/media/sex.f5fff94f.png": "/static/media/sex.f5fff94f.png",
+    "static/media/threesome_2_female.d6b027e5.png": "/static/media/threesome_2_female.d6b027e5.png",
+    "static/media/threesome_2_male.aad05d17.png": "/static/media/threesome_2_male.aad05d17.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.740ca235.js",
-    "static/js/2.3c991fbf.chunk.js",
+    "static/js/runtime-main.fd9671cb.js",
+    "static/js/2.85e6a220.chunk.js",
     "static/css/main.674c0595.chunk.css",
-    "static/js/main.54eb7822.chunk.js"
+    "static/js/main.d9024455.chunk.js"
   ]
 }
